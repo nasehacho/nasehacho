@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/76460422/231530284-a9a5d0b5-cad1-46ef-a823-e402b0a4b0a0.png)">
+  <img src="https://user-images.githubusercontent.com/76460422/231530284-a9a5d0b5-cad1-46ef-a823-e402b0a4b0a0.png">
 </p>
 
 # Hi there, I'm Naseha (Na-she-ha) 👋

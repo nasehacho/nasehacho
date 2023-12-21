@@ -2,7 +2,8 @@
   <img src="https://user-images.githubusercontent.com/76460422/231530284-a9a5d0b5-cad1-46ef-a823-e402b0a4b0a0.png">
 </p>
 
-# Hi there, I'm Naseha (Na-she-ha) 👋
+# Hi there, I'm Naseha (Na-she-ha) <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="45" />
+
 ## I'm a Medical Laboratory Science student @ CUNY Hunter College working on data analytical projects 👩‍🔬👩‍💻
 📫 How to reach me: 
 

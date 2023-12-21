@@ -10,9 +10,6 @@
 
 👥 Linkedin: www.linkedin.com/in/naseha-chowdhury
 
-### My GitHub Contributions 
-![Snake animation](https://github.com/nasehacho/nasehacho/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **nasehacho/nasehacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

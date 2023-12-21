@@ -10,6 +10,18 @@
 
 👥 Linkedin: www.linkedin.com/in/naseha-chowdhury
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Naseha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nasehacho&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Naseha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasehacho" />
+
 <!--
 **nasehacho/nasehacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

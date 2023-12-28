@@ -4,7 +4,7 @@
 
 # Hi there, I'm Naseha (Na-she-ha) <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="45" /> 
 
-### I'm a Medical Laboratory Science student @ CUNY Hunter College working on data projects 👩‍🔬👩‍💻
+### I'm a Medical Laboratory Science Graduate from CUNY Hunter College working on data projects 👩‍🔬👩‍💻
 
 <div align="center">
   <h2> 🌱 My Contributions 🌱 </h2>

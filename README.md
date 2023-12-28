@@ -14,6 +14,8 @@
   <br/><br/><br/>
 </div>
 
+<hr/>
+
 📫 How to reach me: 
 
 📨 Email: nasehacho@gmail.com

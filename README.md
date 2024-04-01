@@ -23,12 +23,6 @@
 <hr/>
 <div align="center">
   <h2> ⭐ Click to see my stats! ⭐ </h2>
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Naseha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nasehacho&show_icons=true&hide_border=true" />
-
-</details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>

@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/76460422/231530284-a9a5d0b5-cad1-46ef-a823-e402b0a4b0a0.png">
 </p>
 
-# Hi there, I'm Naseha (Na-she-ha) <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="45" /> 
+# Hi there, I'm Naseha (Na-she-ha) <img src="https://github.com/nasehacho/nasehacho/assets/76460422/6e0657ff-a4fa-43cd-8cec-f5039d020e2d" width="50" /> 
 
 ### I'm a Medical Laboratory Science Graduate from CUNY Hunter College working on data projects 👩‍🔬👩‍💻
 
